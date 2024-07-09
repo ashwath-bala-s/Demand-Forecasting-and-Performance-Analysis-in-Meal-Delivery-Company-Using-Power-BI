@@ -6,7 +6,7 @@ Accurate demand forecasting is critical for the efficient operation of meal deli
 
 **Problem Statement:**
 
-The client, a meal delivery company with multiple fulfillment centers across various cities, seeks to improve its demand forecasting capabilities. The goal is to develop a Power BI Dashboard to predict weekly demand for upcoming weeks. This will assist the fulfillment centers in planning the stock of perishable raw materials and optimizing staffing levels. The solution involves integrating and analyzing data from three different datasets to provide accurate and actionable forecasts using Power BI.
+The client, a meal delivery company with multiple fulfillment centers across various cities, seeks to improve its demand forecasting capabilities. The goal is to develop a Power BI Dashboard to predict weekly demand for upcoming weeks. This will assist the fulfillment centers in planning the stock of perishable raw materials and optimizing staffing levels. 
 
 **Dataset:**
 
